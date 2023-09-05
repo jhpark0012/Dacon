@@ -1,6 +1,6 @@
 ## 온라인 채널 제품 판매량 예측 AI 온라인 해커톤
   
-| Period | Team | Public | Private |
+| Period | Team | Public score | Private score |
 |:---:|:---:|:---:|:---:|
 | 23.08.01 ~ 23.08.28 | 홍박사 (2명) | 39 | 114 |
 
