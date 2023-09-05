@@ -7,4 +7,4 @@
 ### 역할
 | 박재현 | 팀원 |
 |:---:|:---:|
-|  EDA 및 전처리 | LSTM 모델링 및 튜닝 |
+|  EDA & Data preprocess | LSTM modeling & Tuning |
