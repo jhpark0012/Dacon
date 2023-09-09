@@ -9,4 +9,4 @@
 ### Role
 | 박재현 | 팀원 |
 |:---:|:---:|
-|  EDA & Data preprocess | LSTM modeling & Tuning |
+|  EDA & Data Preprocess | LSTM modeling & Tuning |
