@@ -10,3 +10,7 @@
 | 박재현 | 팀원 |
 |:---:|:---:|
 |  EDA & Data Preprocess | LSTM modeling & Tuning |
+
+
+### Development Environment
+Colab Pro +
